@@ -4,6 +4,8 @@
 
 # Arrays are lists of things
 
+mixed_array
+
 # Accessing the array
 
 # Add to the array
